@@ -24,7 +24,7 @@ Solve **9x9 Sudoku puzzles** efficiently using **Backtracking and Constraint Pro
 
 ### 🔹 Clone the Repository  
 ```sh
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/deeplukhi/sudoku-solver.git
 cd sudoku-solver
 ```
 
